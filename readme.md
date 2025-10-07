@@ -1,4 +1,0 @@
-## Project Discription 
-
-Jack Dickson
-This project details a backpacking route through the Wind River range, Wyoming. The map: line segments for the trail, and point features for campsites. Some of the campsites contain Images that I took. I plotted the route features in google earthm then converted the KML file into a GeoJson. The basemap is a U.S. Geological Survey Imagery basemap. This basemap fits well becuase you can view terrain and features like moutians and lakes surrounding the trail. The libraries used to create this map are leaflet, the USGS basemap, and some local photos used to display images on some of the points. I have a discription on the site as well, it shares a little bit abou the trip and there is also a link to the NOLS website if you want to learn more. There is also a zoom button in the top right corner so you can zoom in and out. 
